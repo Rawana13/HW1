@@ -21,4 +21,4 @@ This repository contains a written reflection on how generative AI can help addr
 
 ## Video Walkthrough
 
-[Video link coming soon]
+(https://vimeo.com/1178505004?share=copy&fl=sv&fe=ci)
