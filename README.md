@@ -20,5 +20,4 @@ This repository contains a written reflection on how generative AI can help addr
 | *(this commit)* | Add README.md with repository overview and git log |
 
 ## Video Walkthrough
-
-(https://vimeo.com/1178505004?share=copy&fl=sv&fe=ci)
+(https://canva.link/srvn4kuxwkeyf6w)
